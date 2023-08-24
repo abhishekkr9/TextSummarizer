@@ -1,0 +1,29 @@
+2023-07-07 19:22:59,594: INFO: common: yaml file: config\config.yaml loaded successfully
+2023-07-07 19:22:59,609: INFO: common: yaml file: params.yaml loaded successfully
+2023-07-07 19:22:59,609: INFO: common: created directory at: artifacts
+2023-07-07 19:22:59,609: INFO: common: created directory at: artifacts/data_validation
+2023-07-07 19:23:38,774: INFO: common: yaml file: config\config.yaml loaded successfully
+2023-07-07 19:23:38,776: INFO: common: yaml file: params.yaml loaded successfully
+2023-07-07 19:23:38,776: INFO: common: created directory at: artifacts
+2023-07-07 19:23:38,778: INFO: common: created directory at: artifacts/data_validation
+2023-07-07 19:24:18,330: INFO: common: yaml file: config\config.yaml loaded successfully
+2023-07-07 19:24:18,330: INFO: common: yaml file: params.yaml loaded successfully
+2023-07-07 19:24:18,338: INFO: common: created directory at: artifacts
+2023-07-07 19:24:18,338: INFO: common: created directory at: artifacts/data_validation
+2023-07-07 19:25:35,619: INFO: common: yaml file: config\config.yaml loaded successfully
+2023-07-07 19:25:35,634: INFO: common: yaml file: params.yaml loaded successfully
+2023-07-07 19:25:35,635: INFO: common: created directory at: artifacts
+2023-07-07 19:25:35,636: INFO: common: created directory at: artifacts/data_validation
+2023-07-07 19:25:59,431: INFO: common: yaml file: config\config.yaml loaded successfully
+2023-07-07 19:25:59,431: INFO: common: yaml file: params.yaml loaded successfully
+2023-07-07 19:25:59,431: INFO: common: created directory at: artifacts
+2023-07-07 19:25:59,431: INFO: common: created directory at: artifacts/data_validation
+2023-07-07 19:26:07,854: INFO: common: yaml file: config\config.yaml loaded successfully
+2023-07-07 19:26:07,854: INFO: common: yaml file: params.yaml loaded successfully
+2023-07-07 19:26:07,862: INFO: common: created directory at: artifacts
+2023-07-07 19:31:10,041: INFO: common: yaml file: config\config.yaml loaded successfully
+2023-07-07 19:31:10,045: INFO: common: yaml file: params.yaml loaded successfully
+2023-07-07 19:31:10,046: INFO: common: created directory at: artifacts
+2023-07-07 19:37:16,934: INFO: common: yaml file: config\config.yaml loaded successfully
+2023-07-07 19:37:16,934: INFO: common: yaml file: params.yaml loaded successfully
+2023-07-07 19:37:16,934: INFO: common: created directory at: artifacts
